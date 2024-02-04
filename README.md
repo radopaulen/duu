@@ -6,7 +6,7 @@
 Design Under Uncertainty (DUU for short) offers algorithms for solving design problems under uncertainty, such as:
 - parameter estimation (PE)
 - design space characterization (DS)
-- parameter set membership (PSM) <-- NOT IMPLEMENTED YET
+- set membership estimation (SME)
 - experiment design (ED) <-- NOT IMPLEMENTED YET
 
 
